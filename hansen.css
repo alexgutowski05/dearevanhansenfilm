@@ -115,3 +115,5 @@ figcaption {	display: block;
 }
 .dropdown:hover .dropdown-content {	display: block;
 }
+#sub {	width: 20px;
+}
