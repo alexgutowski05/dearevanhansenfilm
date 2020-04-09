@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Protected Site"
-AuthUserFile ../.htpasswd
+AuthUserFile https://raw.githubusercontent.com/alexgutowski05/dearevanhansenfilm/master/.htpasswd
 require valid-user
